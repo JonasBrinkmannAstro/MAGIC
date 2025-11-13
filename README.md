@@ -1,7 +1,7 @@
 M.A.X. - MUSE Absorption eXtractor
 
 
-M.A.X. is an end-to-end spectral analysis pipeline designed to extract, model and interpret absorption lines in background galaxy spectra emprinted by foreground Galaxies for MUSE data cubes.
+MAX is an end-to-end spectral analysis pipeline designed to extract, model and interpret absorption lines in background galaxy spectra emprinted by foreground Galaxies for MUSE data cubes.
 Thank you for downloading this script. I hope it is useful for your research.
 Acknowledgement of this work is appreciated.
 
